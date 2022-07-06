@@ -1,0 +1,18 @@
+//Hello guys in this text pge , i am gonaa tell how to create the meta wallets and how to get fake ethers in it .
+
+Faucets links can be on google or some influencers own faucet website to provide fake ethers. You can serch on ur own on google too.
+
+
+Rinkbey network: {1}  =  https://faucets.chain.link/
+Rinkbey network: {2}  =  https://rinkebyfaucet.com/
+
+After getting ethers , u can check in your account of wallet. https://www.myetherwallet.com/
+
+
+
+
+
+
+// These are fake ethers so dont think that u gonaa get rich or something like that lol.
+
+// Some concepts like [transactions] and [gas price] are coverd in basic of blockchain . so do like and share my repo !!
